@@ -16,3 +16,11 @@ An advanced, command-line IP & Domain reconnaissance tool engineered for cyberse
    \ \/ /______| | '__/ _` |/ __| |/ / _ \ '__|  __  |
     \  /       | | | | (_| | (__|   <  __/ |  | |  | |
      \/        |_|_|  \__,_|\___|_|\_\___|_|  |_|  |_|
+
+bash
+apt update && apt upgrade -y
+pkg install git
+git clone https://github.com/vampiresquad/Ip-Tracker.git
+cd Ip-Tracker
+python3 ip-trackerX.py
+bash
