@@ -18,7 +18,7 @@ An advanced, command-line IP & Domain reconnaissance tool engineered for cyberse
      \/        |_|_|  \__,_|\___|_|\_\___|_|  |_|  |_|
 
 
-```
+$$ Usage:
 
 
 ```
