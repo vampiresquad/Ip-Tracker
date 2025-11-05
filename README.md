@@ -20,12 +20,11 @@ An advanced, command-line IP & Domain reconnaissance tool engineered for cyberse
 
 ```
 
-bash
-""
+
+```
 apt update && apt upgrade -y
 pkg install git
 git clone https://github.com/vampiresquad/Ip-Tracker.git
 cd Ip-Tracker
 python3 ip-trackerX.py
-""
-bash
+```
